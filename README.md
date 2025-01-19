@@ -13,7 +13,7 @@ This PDF report provides a comprehensive analysis of current and future technolo
    - Programming Language Preferences  
    - Database Preferences  
    - Platform Preferences  
-   - Web Framework Hierarchy  
+   - Web Framework Hierarchy 
 
 2. **Future Technology Trends**  
    - LanguageDesireNextYear Analysis  
